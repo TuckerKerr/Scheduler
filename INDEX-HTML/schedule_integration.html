@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <script src="../INDEX-JS/demo-model.js"></script>
+  <script src="../INDEX-JS/demo-api.js"></script>
+  <script src="../INDEX-JS/safe-actions.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student ITFS</title>
+  <link rel="icon" type="image/x-icon" href="../ASSETS/favicon.ico">
+  <link rel="stylesheet" href="../vendor/fontawesome-6.0.0.css">
+  <link rel="stylesheet" href="../Styles.css">
+
+</head>
+
+<body>
+  <!-- Sidebar -->
+  <div class="sidebar" id="sidebar">
+    <div>
+      <div class="sidebar-header">
+        <button class="toggle-btn" id="toggleBtn">
+          <i class="fas fa-bars"></i>
+        </button>
+        <div class="sidebar-title">Student ITFS</div>
+      </div>
+
+      <div class="nav-items">
+        <button id="tab1" class="sidebar-button">
+          <i class="fa-solid fa-rotate-left"></i>
+          <span>Equipment Return</span>
+        </button>
+        <button id="tab2" class="sidebar-button">
+          <i class="fa-solid fa-boxes-stacked"></i>
+          <span>Delivery Intake</span>
+        </button>
+        <button id="tab3" class="sidebar-button">
+          <i class="fa-solid fa-recycle"></i>
+          <span>E-waste</span>
+        </button>
+        <button id="tab4" class="sidebar-button">
+          <i class="fa-solid fa-building"></i>
+          <span>Room Check Form</span>
+        </button>
+        <button id="tab5" class="sidebar-button">
+          <i class="fa-solid fa-screwdriver-wrench"></i>
+          <span>Field Work</span>
+        </button>
+        <button id="tab6" class="sidebar-button">
+          <i class="fa-solid fa-print"></i>
+          <span>Printer Check</span>
+        </button>
+
+        <button id="tab7" class="sidebar-button" data-nav="../../sts/INDEX-HTML/main.html">
+          <i class="fa-regular fa-chart-bar"></i>
+          <span>Worker Stats</span>
+        </button>
+
+        <div class="decorative-line"></div>
+
+        <button id="tab8" class="sidebar-button">
+          <i class="fa-solid fa-flask"></i>
+          <span>Lab Stats</span>
+        </button>
+        <button id="tab9" class="sidebar-button">
+          <i class="fa-solid fa-warehouse"></i>
+          <span>Inventory</span>
+        </button>
+        <button id="tab10" class="sidebar-button">
+          <i class="fa-solid fa-file"></i>
+          <span>Raw Data</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="sidebar-copyright">
+      <img src="../ASSETS/logo-Black&White.png" class="sidebar-img" id="sidebarLogo" alt="Logo">
+      <p>JWU 2025 ©</p>
+    </div>
+  </div>
+
+  <!-- Overlay for mobile when sidebar is active -->
+  <div class="overlay" id="overlay"></div>
+
+  <!-- Top Navigation Bar -->
+  <div class="topnav">
+
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search for assets, tickets, or users...">
+      <button data-emoji="✨" type="submit" class="submit"> <i class="fa-solid fa-magnifying-glass"></i></button>
+    </div>
+    <div class="profile" id="profile">
+      <div class="profile-icon" id="profileIcon">U</div>
+      <div class="dropdown" id="dropdown">
+        <div class="username">
+          <h2 id="usernameDisplay"></h2>
+        </div>
+        <!-- Theme toggle switch -->
+        <div class="theme-toggle">
+          <span>Dark Mode</span>
+          <label class="toggle-switch">
+            <input type="checkbox" id="themeToggle">
+            <span class="toggle-slider"></span>
+          </label>
+        </div>
+        <a id="calendar" class="dropdown-item">Schedule <i class="fa-solid fa-calendar-days" width="20"
+            height="20"></i></a>
+        <a href="#" data-action="reset" class="dropdown-item">Reset Demo <i class="fa-solid fa-right-from-bracket"
+            width="20" height="20"></i></a>
+      </div>
+    </div>
+
+    <div id="confirmOverlay" class="confirm-overlay" style="display: none;">
+      <div class="confirm-box">
+        <p id="confirmMessage">Are you sure?</p>
+        <div class="confirm-buttons">
+          <button id="confirmYes">Yes</button>
+          <button id="confirmNo">No</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Content Area -->
+  <div class="main-content" id="mainContent">
+    <div class="box-container">
+      </head>
+      <style>
+
+        body {
+          font-family: Arial, sans-serif;
+
+          text-align: center;
+          padding: 20px;
+        }
+
+        .titlecontainer {
+          display: flex;
+          flex-direction: column;
+          width: initial;
+          margin: auto;
+          background: var(--box-bg);
+          padding: 20px;
+          border-radius: 8px;
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+
+        .container {
+          display: flex;
+          flex-direction: column;
+          margin: auto;
+          background: var(--box-bg);
+          padding: 20px;
+          border-radius: 8px;
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .date-picker-container {
+          display: flex;
+          justify-content: center;
+          margin-top: 20px;
+          gap: 20px;
+          align-items: baseline;
+        }
+
+        #motdBanner {
+          background: #ffcc00;
+          padding: 10px;
+          font-size: 20px;
+          font-weight: bold;
+          margin-bottom: 15px;
+        }
+
+        input[type="date"] {
+          width: initial;
+          padding: 5px;
+          font-size: 14px;
+          margin-bottom: 15px;
+          cursor: pointer;
+        }
+
+        table {
+          border-collapse: collapse;
+          transform: scale(0.9);
+          margin-left: auto;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+          background-color: rgba(255, 255, 255, 0.95);
+        }
+
+        .table-wrapper {
+          overflow: scroll;
+          display: flex;
+          justify-content: center;
+
+        }
+
+        .table-wrapper table {
+          transform-origin: top left;
+          width: max-content;
+          max-width: 100%;
+          display: block;
+        }
+
+        .shiftButton {
+          border-radius: 5px;
+          padding: 13px;
+          border: 0px solid;
+          background-color: var(--accent-color);
+          cursor: pointer;
+        }
+
+        label {
+          color: var(--text-color);
+        }
+
+        th,
+        td {
+          border: 1px solid #ccc;
+          padding: 5px;
+          text-align: center;
+          font-size: 12px;
+          background-color: white;
+        }
+
+        th.day-header {
+          background-color: var(--hover-bg);
+          color: var(--text-color);
+        }
+
+        td.time-label {
+          background-color: #e0e0e0;
+          font-weight: bold;
+        }
+
+        #nam {
+          writing-mode: vertical-lr;
+          transform: rotate(180deg);
+          font-weight: bold;
+          color: #000;
+        }
+
+        .alt-day {
+          background-color: #f0f0f0;
+        }
+
+        #weeklyTotals {
+          margin-top: 20px;
+          padding: 15px;
+          background: rgba(255, 255, 255, 0.95);
+          border-radius: 8px;
+          width: 30%;
+          margin-left: auto;
+          margin-right: auto;
+          box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        #totalsList {
+          list-style: none;
+          padding: 0;
+          margin-top: 10px;
+          display: flex;
+
+          gap: 10px;
+        }
+
+        #totalsList li {
+          margin-bottom: 5px;
+          font-size: 14px;
+          
+        }
+
+        .confirm-overlay {
+          position: fixed;
+          top: 0; left: 0;
+          width: 100%; height: 100%;
+          background: rgba(0, 0, 0, 0.5);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          z-index: 1000;
+        }
+
+        .confirm-box {
+          background: white;
+          padding: 20px 24px;
+          border-radius: 8px;
+          text-align: center;
+          min-width: 250px;
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        .confirm-buttons {
+          margin-top: 16px;
+          display: flex;
+          justify-content: center;
+          gap: 12px;
+        }
+
+        .confirm-buttons button {
+          padding: 6px 16px;
+          border: none;
+          border-radius: 4px;
+          cursor: pointer;
+        }
+
+        #confirmYes {
+          background: var(--accent-color);
+          color: white;
+        }
+
+        #confirmNo {
+          background: #ff0101;
+        }
+      </style>
+      </head>
+      <div class="inner-box-container">
+        <div class="titlecontainer" style="display: none;" id="leftTitleBox">
+          <!--Delete anyones Schedule-->
+          <h2>Delete A Schedule</h2>
+          <label for="studentsNames">Student</label>
+              <select id="studentsNames" name="studentsNames">
+                  <option value="" disabled selected>Student Name</option>
+              </select>
+            <button id="scheduleButton" class="shiftButton" data-action="delete">Delete</button> 
+        </div>
+
+        <div class="titlecontainer">
+          <h2>Shift Weekly Overview</h2>
+          <div class="date-picker-container" ;>
+            <div>
+              <label for="weekPicker"><strong>Select any date:</strong></label>
+            </div>
+            <div>
+              <input type="date" id="weekPicker" />
+            </div>
+            <div>
+              <a href="ShiftCreation_integration.html">
+                <button id="shiftButton" class="shiftButton">Create New Shift</button>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="titlecontainer" style="display: none;" id="rightTitleBox">
+          <!--WORK IN PROGRESS-->
+          <!--Modify the number of max users-->
+          <h2>Modify Max Users</h2>
+          <div class="box-content">
+              <form id="maxUserForm">
+                  <input type="text" id="MaxSlots" name="MaxSlots" style="width: 50%;">
+                  <input type="submit" class="shiftButton" id="SlotsButton" value="submit">
+                  <input type="button" class="shiftButton" id="slotsUpdate" value="update">
+              </form>
+          </div>  
+        
+        </div>
+      </div>
+      
+
+      <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th rowspan="2">Time</th>
+            <th class="day-header" colspan="12">Monday</th>
+            <th class="day-header" colspan="12">Tuesday</th>
+            <th class="day-header" colspan="12">Wednesday</th>
+            <th class="day-header" colspan="12">Thursday</th>
+            <th class="day-header" colspan="12">Friday</th>
+          </tr>
+          <tr id="employeeHeaderRow">
+            <!-- Filled by JS -->
+          </tr>
+        </thead>
+        <tbody id="shiftTableBody">
+          <!-- Generated by JS -->
+        </tbody>
+      </table>
+</div>
+      <div class="container" ;>
+        <h3>Total Hours This Week</h3>
+        <ul id="totalsList"></ul>
+      </div>
+
+      <!-- =========================================================
+        MAIN SCHEDULE SCRIPT
+        Responsibilities:
+        1. Load weekly shift data from backend (PHP)
+        2. Dynamically build table headers based on employees
+        3. Generate 15-minute time grid
+        4. Populate shifts visually with color coding
+        5. Calculate weekly totals
+      ========================================================= -->
+      <script src="../INDEX-JS/page-schedule_integration-2.js"></script>
+
+
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <script src="../INDEX-JS/sidebar.js"></script>
+  <script src="../INDEX-JS/Wrapper.js"></script>
+  <script src="../INDEX-JS/testindexsearch.js"></script>
+  <script src='../vendor/js-confetti-0.12.0.js'></script>
+  <script src="../INDEX-JS/page-schedule_integration-3.js"></script>
+
+<script src="../INDEX-JS/page-schedule_integration-4.js"></script>
+
+
+  </script>
+  <!-- Include global.js for shared link functionality -->
+  
+
+</body>
+
+</html>

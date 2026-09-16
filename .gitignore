@@ -1,0 +1,20 @@
+# Never commit local secrets, database configuration or logs.
+**/db_connect*
+**/db_connection*
+**/pdo_connect*
+**/.env
+**/.env.*
+!**/.env.example
+**/*.log
+**/*.pem
+**/*.key
+**/*.pfx
+**/*.p12
+**/credentials*.json
+**/secrets*.json
+**/*.sql.gz
+**/*.dump
+**/*.bak
+**/node_modules/
+**/.DS_Store
+**/Thumbs.db

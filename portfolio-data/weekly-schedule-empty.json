@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "employees": [
+    {
+      "emp_id": 9001,
+      "name": "Alex Morgan"
+    },
+    {
+      "emp_id": 9002,
+      "name": "Casey Rivera"
+    },
+    {
+      "emp_id": 9003,
+      "name": "Drew Parker"
+    },
+    {
+      "emp_id": 9004,
+      "name": "Jamie Chen"
+    },
+    {
+      "emp_id": 9005,
+      "name": "Jordan Ellis"
+    },
+    {
+      "emp_id": 9006,
+      "name": "Morgan Reed"
+    },
+    {
+      "emp_id": 9007,
+      "name": "Riley Brooks"
+    },
+    {
+      "emp_id": 9008,
+      "name": "Sam Taylor"
+    }
+  ],
+  "shifts": []
+}

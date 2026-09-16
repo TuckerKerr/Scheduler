@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DEMO-001",
+    "asset": "DEMO-LAPTOP-001",
+    "description": "<p><b>Status</b>: Ready for pickup</p><p><b>Location</b>: Demo service desk</p>",
+    "tag": "Equipment Return",
+    "table": "total_equipment_return",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "DEMO-002",
+    "asset": "DEMO-PRINTER-002",
+    "description": "<p><b>Status</b>: Paper and toner checked</p>",
+    "tag": "total_printer_check",
+    "table": "Total_printer_check",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "DEMO-003",
+    "asset": "DEMO-ROOM-003",
+    "description": "<p><b>Status</b>: Display and peripherals checked</p>",
+    "tag": "Room Check",
+    "table": "total_room_check",
+    "date": "2026-09-16"
+  }
+]

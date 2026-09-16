@@ -1,0 +1,223 @@
+{
+  "changes": [
+    {
+      "path": ".gitignore",
+      "change": "modified"
+    },
+    {
+      "path": ".nojekyll",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-HTML/confirmation_page.html",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-HTML/schedule_integration.html",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-HTML/ShiftCreation_integration.html",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-HTML/weekly_schedule.html",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-JS/demo-api.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/demo-model.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/page-confirmation_page-1.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/page-schedule_integration-2.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/page-schedule_integration-3.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/page-schedule_integration-4.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/page-ShiftCreation_integration-5.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/page-ShiftCreation_integration-6.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/page-ShiftCreation_integration-7.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/page-weekly_schedule-8.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/safe-actions.js",
+      "change": "added"
+    },
+    {
+      "path": "INDEX-JS/sidebar.js",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-JS/testindexsearch.js",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-JS/Wrapper.js",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-PHP/admin_updates.php",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-PHP/MaxStudentsPerSlot.php",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-PHP/search-assets.php",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-PHP/shiftUpdate.php",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-PHP/submitshift.php",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-PHP/time_check.php",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-PHP/weekly_schedule.php",
+      "change": "modified"
+    },
+    {
+      "path": "INDEX-PHP/weekly_schedule_load.php",
+      "change": "modified"
+    },
+    {
+      "path": "index.html",
+      "change": "added"
+    },
+    {
+      "path": "landfill/test.html",
+      "change": "modified"
+    },
+    {
+      "path": "landfill/test.php",
+      "change": "modified"
+    },
+    {
+      "path": "partials/sidebar.html",
+      "change": "modified"
+    },
+    {
+      "path": "portfolio-review/COPY-MANIFEST.json",
+      "change": "modified"
+    },
+    {
+      "path": "portfolio-review/README.md",
+      "change": "modified"
+    },
+    {
+      "path": "portfolio-review/SECURITY-AND-CODE-REVIEW.md",
+      "change": "modified"
+    },
+    {
+      "path": "portfolio-review/SIDEBAR-INTEGRATION.md",
+      "change": "modified"
+    },
+    {
+      "path": "README.md",
+      "change": "added"
+    },
+    {
+      "path": "scripts/check-publication.cjs",
+      "change": "added"
+    },
+    {
+      "path": "SECURITY-CHANGES.md",
+      "change": "added"
+    },
+    {
+      "path": "START-HERE.md",
+      "change": "modified"
+    },
+    {
+      "path": "tests/security.test.cjs",
+      "change": "added"
+    },
+    {
+      "path": "vendor/fontawesome-6.0.0.css",
+      "change": "added"
+    },
+    {
+      "path": "vendor/fontawesome-LICENSE.txt",
+      "change": "added"
+    },
+    {
+      "path": "vendor/js-confetti-0.12.0.js",
+      "change": "added"
+    },
+    {
+      "path": "vendor/js-confetti-LICENSE",
+      "change": "added"
+    },
+    {
+      "path": "vendor/README.md",
+      "change": "added"
+    },
+    {
+      "path": "webfonts/fa-brands-400.ttf",
+      "change": "added"
+    },
+    {
+      "path": "webfonts/fa-brands-400.woff2",
+      "change": "added"
+    },
+    {
+      "path": "webfonts/fa-regular-400.ttf",
+      "change": "added"
+    },
+    {
+      "path": "webfonts/fa-regular-400.woff2",
+      "change": "added"
+    },
+    {
+      "path": "webfonts/fa-solid-900.ttf",
+      "change": "added"
+    },
+    {
+      "path": "webfonts/fa-solid-900.woff2",
+      "change": "added"
+    },
+    {
+      "path": "webfonts/fa-v4compatibility.ttf",
+      "change": "added"
+    },
+    {
+      "path": "webfonts/fa-v4compatibility.woff2",
+      "change": "added"
+    }
+  ],
+  "cssFilesUnchanged": true,
+  "inlineStyleBlocksUnchanged": true,
+  "originalSchedulerUnmodified": true
+}

@@ -1,0 +1,17 @@
+{
+  "fictional": true,
+  "defaultPersona": "Alex Morgan",
+  "weeks": [
+    "2026-09-14",
+    "2026-09-21",
+    "2026-09-28",
+    "2026-10-05"
+  ],
+  "campuses": [
+    "Downcity",
+    "Harborside"
+  ],
+  "slotMinutes": 15,
+  "maxPeoplePerCampusSlot": 3,
+  "note": "Fixed dates. No real people, credentials, account sessions or production records are included. Campus strings match the existing UI."
+}

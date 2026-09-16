@@ -1,0 +1,42 @@
+[
+  {
+    "emp_id": 9001,
+    "name": "Alex Morgan",
+    "active": 1
+  },
+  {
+    "emp_id": 9002,
+    "name": "Casey Rivera",
+    "active": 1
+  },
+  {
+    "emp_id": 9003,
+    "name": "Drew Parker",
+    "active": 1
+  },
+  {
+    "emp_id": 9004,
+    "name": "Jamie Chen",
+    "active": 1
+  },
+  {
+    "emp_id": 9005,
+    "name": "Jordan Ellis",
+    "active": 1
+  },
+  {
+    "emp_id": 9006,
+    "name": "Morgan Reed",
+    "active": 1
+  },
+  {
+    "emp_id": 9007,
+    "name": "Riley Brooks",
+    "active": 1
+  },
+  {
+    "emp_id": 9008,
+    "name": "Sam Taylor",
+    "active": 1
+  }
+]

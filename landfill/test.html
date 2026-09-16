@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><link rel="icon" href="../ASSETS/favicon.ico">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <script src="../INDEX-JS/demo-model.js"></script>
+  <script src="../INDEX-JS/demo-api.js"></script>
+  <script src="../INDEX-JS/safe-actions.js"></script>
+    <meta charset="UTF-8">
+    <title>Three Textboxes Form</title>
+</head>
+<body>
+    <h2>Enter Values</h2>
+    <form method="post" action="../schedulephp/test.php">
+        <label for="textbox1">Textbox 1:</label>
+        <input type="text" id="textbox1" name="textbox1"><br><br>
+
+        <label for="textbox2">Textbox 2:</label>
+        <input type="text" id="textbox2" name="textbox2"><br><br>
+
+        <label for="textbox3">Textbox 3:</label>
+        <input type="text" id="textbox3" name="textbox3"><br><br>
+
+        <button type="submit" name="submit">Submit</button>
+    </form>
+</body>
+</html>

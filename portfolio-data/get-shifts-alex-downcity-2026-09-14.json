@@ -1,0 +1,245 @@
+{
+  "success": true,
+  "shifts": [
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O800"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O815"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O830"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O845"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O900"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O915"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O930"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O945"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O1000"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O1015"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O1030"
+    },
+    {
+      "shift_date": "2026-09-14",
+      "time_id": "O1045"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U900"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U915"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U930"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U945"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U1000"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U1015"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U1030"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U1045"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U1100"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U1115"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U1130"
+    },
+    {
+      "shift_date": "2026-09-15",
+      "time_id": "U1145"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1000"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1015"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1030"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1045"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1100"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1115"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1130"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1145"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1200"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1215"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1230"
+    },
+    {
+      "shift_date": "2026-09-16",
+      "time_id": "E1245"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H1100"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H1115"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H1130"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H1145"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H1200"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H1215"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H1230"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H1245"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H100"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H115"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H130"
+    },
+    {
+      "shift_date": "2026-09-17",
+      "time_id": "H145"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R800"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R815"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R830"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R845"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R900"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R915"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R930"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R945"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R1000"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R1015"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R1030"
+    },
+    {
+      "shift_date": "2026-09-18",
+      "time_id": "R1045"
+    }
+  ]
+}

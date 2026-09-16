@@ -1,0 +1,3879 @@
+{
+  "success": true,
+  "employees": [
+    {
+      "emp_id": 9001,
+      "name": "Alex Morgan"
+    },
+    {
+      "emp_id": 9002,
+      "name": "Casey Rivera"
+    },
+    {
+      "emp_id": 9003,
+      "name": "Drew Parker"
+    },
+    {
+      "emp_id": 9004,
+      "name": "Jamie Chen"
+    },
+    {
+      "emp_id": 9005,
+      "name": "Jordan Ellis"
+    },
+    {
+      "emp_id": 9006,
+      "name": "Morgan Reed"
+    },
+    {
+      "emp_id": 9007,
+      "name": "Riley Brooks"
+    },
+    {
+      "emp_id": 9008,
+      "name": "Sam Taylor"
+    }
+  ],
+  "shifts": [
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O800",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O815",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O830",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O845",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R800",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R815",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R830",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R845",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9001,
+      "emp_name": "Alex Morgan",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H800",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H815",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H830",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H845",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9002,
+      "emp_name": "Casey Rivera",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E800",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E815",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E830",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E845",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9003,
+      "emp_name": "Drew Parker",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U800",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U815",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U830",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U845",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E900",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E915",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E930",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E945",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1000",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1015",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1030",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1045",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1200",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1215",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1230",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1245",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R100",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R115",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R130",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9004,
+      "emp_name": "Jamie Chen",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R145",
+      "campus": "Downcity"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O800",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O815",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O830",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O845",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R800",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R815",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R830",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R845",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9005,
+      "emp_name": "Jordan Ellis",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H800",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H815",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H830",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H845",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9006,
+      "emp_name": "Morgan Reed",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E800",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E815",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E830",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E845",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9007,
+      "emp_name": "Riley Brooks",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-14",
+      "day_of_week": 1,
+      "time_id": "O145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U800",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U815",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U830",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U845",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-15",
+      "day_of_week": 2,
+      "time_id": "U1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E900",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E915",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E930",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E945",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-16",
+      "day_of_week": 3,
+      "time_id": "E1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1000",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1015",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1030",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1045",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-17",
+      "day_of_week": 4,
+      "time_id": "H1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1145",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1200",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1215",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1230",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R1245",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R100",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R115",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R130",
+      "campus": "Harborside"
+    },
+    {
+      "emp_id": 9008,
+      "emp_name": "Sam Taylor",
+      "shift_date": "2026-09-18",
+      "day_of_week": 5,
+      "time_id": "R145",
+      "campus": "Harborside"
+    }
+  ]
+}
