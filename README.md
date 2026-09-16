@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Scheduler
-=======
 # Campus Shift Scheduler
 
 A web-based scheduling interface for coordinating student staff across multiple campus locations. The scheduler brings shift selection, weekly coverage, and employee hours into one place so staff can plan their schedules and supervisors can see how the week is covered.
@@ -67,4 +64,4 @@ The included schedules cover four weeks beginning September 14, 2026. Visitors c
 The sidebar also contains links to related campus applications. Those separate applications are not included in this repository.
 
 For implementation details, see the [security changes](SECURITY-CHANGES.md) and [stylesheet consolidation notes](STYLES-MERGE.md). Local preview instructions remain in [START-HERE.md](START-HERE.md).
->>>>>>> 4c0b28c (Initialization Push. Add all preexisting code from my personal project)
+
