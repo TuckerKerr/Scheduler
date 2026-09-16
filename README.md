@@ -62,6 +62,3 @@ The original application used PHP and database-backed endpoints. In this public 
 The included schedules cover four weeks beginning September 14, 2026. Visitors can explore the scheduling workflow without affecting another visitor's data. Demo administrative controls are available for exploration; they are not a production authentication system.
 
 The sidebar also contains links to related campus applications. Those separate applications are not included in this repository.
-
-For implementation details, see the [security changes](SECURITY-CHANGES.md) and [stylesheet consolidation notes](STYLES-MERGE.md). Local preview instructions remain in [START-HERE.md](START-HERE.md).
-
